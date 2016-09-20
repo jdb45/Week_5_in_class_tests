@@ -6,7 +6,7 @@ public class DinosaurSupervisor {
 
     public static void main(String[] args) {
 
-        //creating the dinos 
+        //creating the dinos
         Dinosaur t_Rex = new Dinosaur();
         Dinosaur velociraptor = new Dinosaur();
         Dinosaur diplodocus = new Dinosaur();
